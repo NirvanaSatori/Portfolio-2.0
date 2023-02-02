@@ -1,7 +1,8 @@
 import React, { useState } from 'react'
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri"
 import './navbar.css'
-import logo from '../../assets/logo.svg'
+// import logo from '../../assets/logo.svg'
+import GoldKey from '../../assets/GoldKey.png'
 
 function Navbar() {
   const [toggleMenu, setToggleMenu] = useState(false)
@@ -10,8 +11,8 @@ function Navbar() {
     <div className='gpt3__navbar'>
       <div className='gpt3__navbar-links'>
         <div className='gpt3__navbar-links_logo'></div>
-        {/* <img src={logo} alt="logo"/> */}
-        <h1>Morris GoldKey</h1>
+        <img src={GoldKey} alt="logo"/>
+        {/* <h1>Morris GoldKey</h1> */}
       </div>
       <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>

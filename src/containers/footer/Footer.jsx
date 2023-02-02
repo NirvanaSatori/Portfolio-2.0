@@ -1,7 +1,8 @@
 import React from 'react'
 import './footer.css'
 import gpt3Logo from '../../logo.svg'
-import logo from '../../assets/logo.svg'
+// import logo from '../../assets/logo.svg'
+import goldkey from '../../assets/goldkey.png'
 
 function Footer() {
   return (
@@ -17,7 +18,7 @@ function Footer() {
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
         {/* <img src={gpt3Logo} alt="gpt3_logo" /> */}
-        <img src={logo} alt="gpt3_logo" />
+        <img src={goldkey} alt="gpt3_logo" />
         <p>Morris GoldKey, <br /> All Rights Reserved</p>
       </div>
       <div className="gpt3__footer-links_div">
