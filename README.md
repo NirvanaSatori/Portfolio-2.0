@@ -4,7 +4,7 @@
 ~ This project transforms a Figma design into a fully functioning website.
 
 
-## My Pportfolio incorporates the following:
+## My Portfolio incorporates the following:
 
 - React functional components and their reusability
 - React file and folder structure
@@ -12,6 +12,7 @@
 - Fundamentals of the CSS BEM Model
 - From soft and pleasant animations to complex gradients
 - Perfectly placed media queries for satisfactory responsiveness covering almost all devices
+- And at the end, I'll deploy the website to extremely fast server and give it a custom domain name
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
