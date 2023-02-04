@@ -37,7 +37,7 @@ function Footer() {
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
         <p>Morris GoldKey</p>
-        <p>+254716135259</p>
+        <p>+254700000001</p>
         <p>morris.waithaka42@gmail.com</p>
       </div>
     </div>

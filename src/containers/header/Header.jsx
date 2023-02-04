@@ -8,7 +8,7 @@ function Header() {
     <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
       <h1 className="gradient__text">Let&apos;s Build Something amazing with GoldKey</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+      <p>Hello, this is Morris Waithaka, a Full Stack Software Engineer. I will solve your problems through code to help you overcome everyday challenges. I use the latest software development tools to write both web and mobile apps.</p>
 
       <div className="gpt3__header-content__input">
         <input type="email" placeholder="Your Email Address" />

@@ -6,7 +6,7 @@ function whatGPT3() {
   return (
     <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="Who is GoldKey?" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+      <Feature title="Who is GoldKey?" text="I am a Full Stack Software Engineer. I solve problems for users through code to help them overcome everyday challenges. I write both web and mobile apps.To keep me competent and dynamic, I am continually learning new technologies." />
     </div>
     <div className="gpt3__whatgpt3-heading">
       <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
